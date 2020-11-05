@@ -1,2 +1,2 @@
 # Tableau
-### Repository for tableau drafts, example and/or projects, etc. 
+### Repository for tableau drafts, doodles, examples and/or projects, etc. 
